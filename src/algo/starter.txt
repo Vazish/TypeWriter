@@ -1,0 +1,28 @@
+Goal is to create a simple autocomplete library
+- Front end will be in react with a simple input and
+whenever user writes something, the algorithm will check
+for the highest likelihood words, say top 1000 and assign
+probability values to those. Then as she keeps writing,
+the algorithm will check the most likely of these top 100
+words again, and as she keeps writing, the top 10 words are
+returned, etc. The highest probability word will be returned.
+
+What else could we all in the long run?
+Machine learning? How could we use that? When a person writes
+something, it should be able to predict the most likely word
+that is going to be written. Right now, we'll probably just
+return the first word that is currently being returned. We can
+change that with machine learning.
+
+What about the algorithm?
+I think we should load the two files first. Check for words in the
+most frequently used first and return all the values that match the
+words in the 20K file. While the user keeps typing, keep firing search actions,
+and returning most likely words. If the length at any point is 0, search the
+words_alpha file and return the most matching words.
+
+Todos:
+= Create React App and work on firing actions
+= Work on algo to return most likely words, all matches
+= Work on algo to return most likely word, highest probability (Machine Learning
+would help here)
