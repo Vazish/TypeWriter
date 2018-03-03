@@ -1,5 +1,5 @@
 # TypeWriter
-A simple autocomplete algorithm that checks for most common words as well as mistakes and predicts the word being type based simple probability.
+A simple autocomplete algorithm that checks for most common words as well as mistakes and predicts the word being type based on simple probability.
 
     git clone git@github.com:Vazish/TypeWriter.git
     cd TypeWriter
