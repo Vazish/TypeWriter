@@ -6,4 +6,4 @@ A simple autocomplete algorithm that checks for most common words as well as mis
     npm install
     http://localhost:3000/
 
-[![Watch the video](https://thumbs.gfycat.com/AdventurousFaithfulHawaiianmonkseal-size_restricted.gif)
+![Watch the video](https://thumbs.gfycat.com/AdventurousFaithfulHawaiianmonkseal-size_restricted.gif)
