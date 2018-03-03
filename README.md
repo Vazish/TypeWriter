@@ -4,7 +4,7 @@ A simple autocomplete algorithm that checks for most common words as well as mis
     git clone git@github.com:Vazish/TypeWriter.git
     cd TypeWriter
     npm install
-http://localhost:3000/
+Then go to http://localhost:3000/ in your browser
 
 ![Watch the video](https://thumbs.gfycat.com/AdventurousFaithfulHawaiianmonkseal-size_restricted.gif)
 
