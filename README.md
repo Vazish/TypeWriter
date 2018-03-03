@@ -5,3 +5,5 @@ A simple autocomplete algorithm that checks for most common words as well as mis
     cd TypeWriter
     npm install
     http://localhost:3000/
+
+[![Watch the video](https://gfycat.com/gifs/detail/AdventurousFaithfulHawaiianmonkseal)
