@@ -8,4 +8,4 @@ http://localhost:3000/
 
 ![Watch the video](https://thumbs.gfycat.com/AdventurousFaithfulHawaiianmonkseal-size_restricted.gif)
 
-Next step is to store words user typed and assign more weight to these when writing out.
+Next step is to store words user typed and assign more weight to these when writing out. 
